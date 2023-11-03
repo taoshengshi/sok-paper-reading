@@ -1,4 +1,4 @@
-# Sok-Paper-Reading Group
+# 3S Group
 ## What is SoK-Paper-Reading Group?
 专注于**区块链**和**Web3**方向的Sok论文阅读，
 分享SoK论文阅读笔记，总结、提炼论文的核心思想，方便快速了解大量相关的研究。
