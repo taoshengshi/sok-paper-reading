@@ -58,5 +58,5 @@ SoK论文分析了当前的研究情形：确定了受到许多研究关注的�
 | 链下交易      |  Basic Trasnsactions        |        |
 | 在区块链领域共识的分类方法      |  Basic Blockchain Consensus Taxnomy        |        |
 | 深入了解基于DAG的区块链系统      |  Base Blockchain DAG        |        |
-| Web3恢复机制    |  Basic Blockchain      |  lixu59
+
 
